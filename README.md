@@ -42,3 +42,9 @@ Install face_recognition
 
 
 3. <strong>Run Real-time Emotion Recognition notebook</strong>
+
+
+## Credits
+	Dlib XXXX
+	Facial recognition python
+
